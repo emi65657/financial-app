@@ -1,4 +1,4 @@
-git clone https://github.com/adenueltech/financial-tracker.git
+git clone(https://github.com/emi65657/financial-app.git)
 cd financial-tracker
 Install dependencies
 bash
@@ -23,7 +23,7 @@ Copy
 Edit
 npm run dev
 🌐 Live Demo
-Check out the live app here: https://financial-tracker-sepia.vercel.app/
+Check out the live app here: 
 
 🙌 Contribution
 Feel free to fork this repo, make changes, and submit a PR! All contributions are welcome.
