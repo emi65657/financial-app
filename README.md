@@ -7,7 +7,6 @@ Edit
 npm install
 3. Set up Firebase
 Create a Firebase project and get your config credentials. Then, create a .env file and add:
-
 env
 Copy
 Edit
@@ -19,11 +18,10 @@ VITE_FIREBASE_MESSAGING_SENDER_ID=your_sender_id
 VITE_FIREBASE_APP_ID=your_app_id
 4. Run the development server
 bash
-Copy
+copy 
 Edit
 npm run dev
 🌐 Live Demo
-Check out the live app here: 
-
+Check out the live app here:
 🙌 Contribution
 Feel free to fork this repo, make changes, and submit a PR! All contributions are welcome.
